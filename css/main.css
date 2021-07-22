@@ -4,6 +4,6 @@ html, body {
 
 h1 {
   text-align: center;
-  color: orangered;
+  color: rgb(255, 93, 35);
   text-transform: lowercase;
 }
